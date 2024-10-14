@@ -1,0 +1,1 @@
+This document serves as a general guide for the foundational Git tasks involved in this project. The following steps outline the basic Git workflow, including repository creation, making changes, and managing versions using Git commands.
